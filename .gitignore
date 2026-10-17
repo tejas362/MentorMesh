@@ -1,0 +1,35 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+backend/venv/
+backend/env/
+.pytest_cache/
+*.sqlite3
+backend/mentormesh.db
+*.db
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment and Secrets
+.env
+.env.local
+.env.*.local
+backend/.env
+frontend/.env.local
+
+# IDE
+.vscode/
+.idea/
