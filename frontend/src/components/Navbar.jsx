@@ -68,7 +68,7 @@ export default function Navbar() {
               MentorMesh
             </div>
             <div style={{ fontSize: '0.7rem', color: 'var(--color-primary-400)', fontWeight: 500, letterSpacing: '0.04em' }}>
-              AlumniLink AI Platform
+              Alumni Mentorship Platform
             </div>
           </div>
         </Link>
@@ -318,7 +318,7 @@ export default function Navbar() {
             onClick={() => setMobileMenuOpen(false)}
             style={{ color: 'var(--color-white)', padding: '0.5rem 0', fontWeight: 500 }}
           >
-            About AlumniLink AI
+            About MentorMesh
           </Link>
           <div style={{ borderTop: '1px solid rgba(255, 255, 255, 0.1)', paddingTop: '1rem', display: 'flex', gap: '0.75rem' }}>
             {isAuthenticated ? (

@@ -1,4 +1,4 @@
-# MentorMesh (AlumniLink AI)
+# MentorMesh
 
 > **Tagline:** Connect with Alumni. Build Your Future.
 
@@ -244,4 +244,4 @@ cd backend
 ---
 
 ## 📜 License
-Educational MIT Prototype License &copy; 2026 MentorMesh (AlumniLink AI).
+Educational MIT Prototype License &copy; 2026 MentorMesh.

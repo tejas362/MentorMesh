@@ -19,7 +19,7 @@ async def lifespan(app: FastAPI):
     yield
 
 app = FastAPI(
-    title="MentorMesh (AlumniLink AI) API",
+    title="MentorMesh API",
     description="Professional alumni networking & AI-inspired mentorship platform. Tagline: Connect with Alumni. Build Your Future.",
     version="1.0.0",
     lifespan=lifespan

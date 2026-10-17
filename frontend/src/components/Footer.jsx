@@ -37,7 +37,7 @@ export default function Footer() {
               </span>
             </div>
             <p style={{ fontSize: '0.875rem', lineHeight: 1.6, marginBottom: '1rem', color: 'var(--color-gray-300)' }}>
-              AlumniLink AI — Connect with Alumni. Build Your Future. Bridging the gap between ambitious university students and accomplished alumni mentors worldwide.
+              MentorMesh — Connect with Alumni. Build Your Future. Bridging the gap between ambitious university students and accomplished alumni mentors worldwide.
             </p>
             <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', fontSize: '0.75rem', color: '#4ade80' }}>
               <ShieldCheck size={14} /> Local MVP Environment Active & Verified
@@ -88,7 +88,7 @@ export default function Footer() {
           fontSize: '0.8125rem'
         }}>
           <div>
-            &copy; {new Date().getFullYear()} MentorMesh (AlumniLink AI). All rights reserved.
+            &copy; {new Date().getFullYear()} MentorMesh. All rights reserved.
           </div>
           <div style={{ display: 'flex', alignItems: 'center', gap: '0.35rem' }}>
             Built with modern React, Vite & FastAPI

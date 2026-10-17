@@ -33,7 +33,7 @@ export default function AboutPage() {
 
   const faqs = [
     {
-      q: 'What is MentorMesh (AlumniLink AI)?',
+      q: 'What is MentorMesh?',
       a: 'MentorMesh is a modern university alumni networking and mentorship platform designed to connect ambitious college students with experienced graduates across leading industries.'
     },
     {
@@ -77,7 +77,7 @@ export default function AboutPage() {
             About MentorMesh
           </h1>
           <p style={{ color: 'var(--color-gray-600)', fontSize: '1.125rem', maxWidth: '650px', margin: '0 auto' }}>
-            AlumniLink AI — Connect with Alumni. Build Your Future.
+            Connect with Alumni. Build Your Future.
           </p>
         </div>
 
